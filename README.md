@@ -25,7 +25,7 @@ Our vision is to bring Natural Language Processing capabilities in Hebrew to a l
   - A word embeddings model for Hebrew
   - Part-of-speech tagger
   
-- Encouraging the open-licensing of high quality, open-licensed, tagged and labelled datasets from various domains (social media, articles, research papers, etc.) and for various tasks (part-of-speech tagging, text classification, sentiment analysis, named entity recognition, etc.), and helping in authoring these datasets where they are missing.
+- Encouraging the open-licensing of high quality, open-licensed, tagged and labelled datasets from various domains (social media, articles, research papers, etc.) and for various tasks (part-of-speech tagging, text classification, sentiment analysis, named entity recognition, etc.), and helping in authoring these datasets where they are missing.ff
 
 
 ## How can I help?
